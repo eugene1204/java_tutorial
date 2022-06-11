@@ -4,7 +4,7 @@ class Calculator{ // 클래스는 사용자 정의 데이터 타입을 만든다
     int left, right;
       
     public void setOprands(int left, int right){
-        this.left = left; xs
+        this.left = left; 
         this.right = right;
     }
       
